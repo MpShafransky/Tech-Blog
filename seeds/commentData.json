@@ -1,0 +1,17 @@
+[
+    {
+        "content": "The weather is nice today",
+        "blog_id": 1,
+        "user_id": 3
+    },
+    {
+        "content": "The swift brown fox jumped over the lazy dog",
+        "blog_id": 2,
+        "user_id": 1
+    },
+    {
+        "content": "Random Text that fits nicely here",
+        "blog_id": 3,
+        "user_id": 2
+    }
+]
